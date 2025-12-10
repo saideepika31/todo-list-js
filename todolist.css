@@ -1,0 +1,24 @@
+.head{
+    background-color: cadetblue;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:30px;
+}
+.body{
+    background-color: darkolivegreen;
+    padding:50px;
+    width=100%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#input{
+    background-color: whitesmoke;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius:10px;
+    padding:10px;
+}
+#button{
+    background-color: crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:10px;
+    border-radius:10px;
+}
